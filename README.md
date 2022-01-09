@@ -1,0 +1,2 @@
+# Java-Programming-and-Software-Engineering-Fundamentals-and-Object-Oriented-Programming-in-Java
+The "Java Programming and Software Engineering Fundamentals Specialization" and the "Object Oriented Programming in Java Specialization" certificates are offered on Coursera by a collaboration between DUKE university and the University of California San Diego. While some material is shared between the two courses, each has its own certificate that is awarded to those who finish the tests successfully. 
