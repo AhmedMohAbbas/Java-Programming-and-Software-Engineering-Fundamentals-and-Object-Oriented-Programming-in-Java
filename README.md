@@ -8,3 +8,18 @@ Some files may contain code from examples as well as some trial and error and ar
 
 Some course work was shared between the two specializations. Each course work is available in its respective directory. As for " bonus course work ", I did not include it here as I did not do all of the extra stuff and did not like including unfinished business.
 
+# About The Specializations
+The first Specialization helps you take your first step towards a career in software development with this introduction to Java, one of the most in-demand programming languages and the foundation of the Android operating system. Designed for beginners, this Specialization will teach you core programming concepts and equip you to write programs to solve complex problems. In addition, you will gain the foundational skills a software engineer needs to solve real-world problems, from designing algorithms to testing and debugging your programs. Most of the course work in this repository is actually from this course.
+
+The second specialization "Object Oriented programming" is for aspiring software developers with some programming experience in at least one other programming language (e.g., Python, C, JavaScript, etc.) who want to be able to solve more complex problems through objected-oriented design with Java. In addition to learning Java, you will gain experience with two Java development environments (BlueJ and Eclipse), learn how to program with graphical user interfaces, and learn how to design programs capable of managing large amounts of data. These software engineering skills are broadly applicable across wide array of industries.
+
+# Credentials Links
+https://www.coursera.org/account/accomplishments/specialization/certificate/S8BAEJHZKMP4
+
+![Cer1](https://user-images.githubusercontent.com/72700823/148772627-478b79e4-e078-4162-ad25-009d8a7b06c1.jpg)
+
+
+
+https://www.coursera.org/account/accomplishments/specialization/certificate/SCKJ2U8V5VGV
+
+![Cer2](https://user-images.githubusercontent.com/72700823/148772665-f00f0dcf-6bb2-4e13-bcfb-4da30815cfa9.jpg)
